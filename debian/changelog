@@ -1,0 +1,26 @@
+ifuse (0.9.1-2) unstable; urgency=low
+
+  * Orphan package.
+
+ -- Bradley Smith <bradsmith@debian.org>  Sun, 27 Sep 2009 15:01:28 +0100
+
+ifuse (0.9.1-1) unstable; urgency=low
+
+  * New upstream release.
+  * Fix ifuse-dbg section.
+  * Add watch file.
+
+ -- Bradley Smith <bradsmith@debian.org>  Tue, 12 May 2009 18:44:54 +0100
+
+ifuse (0.1.0~git+20090323-1) experimental; urgency=low
+
+  * New upstream snapshot.
+  * Update Standards-Version to 3.8.1. (No changes).
+
+ -- Bradley Smith <bradsmith@debian.org>  Mon, 23 Mar 2009 20:42:00 +0000
+
+ifuse (0.1.0~git+20090210-1) experimental; urgency=low
+
+  * Initial release. Closes: #500326
+
+ -- Bradley Smith <bradsmith@debian.org>  Tue, 10 Feb 2009 12:37:31 +0000

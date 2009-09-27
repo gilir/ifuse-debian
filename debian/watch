@@ -1,0 +1,3 @@
+version=3
+http://github.com/MattColyer/ifuse/downloads \
+    http://cloud.github.com/downloads/MattColyer/ifuse/ifuse-([\d\.]+)\.tar\.bz2

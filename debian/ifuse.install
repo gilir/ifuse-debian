@@ -1,0 +1,2 @@
+debian/tmp/sbin/*
+usr/share/hal/fdi/information/20thirdparty/30-ifuse.fdi
