@@ -1,8 +1,12 @@
-ifuse (0.9.1-2) unstable; urgency=low
+ifuse (0.9.5-1) unstable; urgency=low
 
-  * Orphan package.
+  * New upstream release.
+  * debian/ifuse.install: Only install usr/bin
+  * debian/control:
+   - Update build-depends on libiphone-dev to (>= 0.9.5)
+   - Remove VCS fields.
 
- -- Bradley Smith <bradsmith@debian.org>  Sun, 27 Sep 2009 15:01:28 +0100
+ -- Julien Lavergne <julien.lavergne@gmail.com>  Tue, 10 Nov 2009 23:29:16 +0100
 
 ifuse (0.9.1-1) unstable; urgency=low
 

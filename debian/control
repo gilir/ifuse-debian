@@ -1,12 +1,10 @@
 Source: ifuse
 Section: utils
 Priority: optional
-Maintainer: Debian QA Group <packages@qa.debian.org>
+Maintainer: Julien Lavergne <julien.lavergne@gmail.com>
 Standards-Version: 3.8.1
-Build-Depends: debhelper (>= 7), libfuse-dev (>= 2.7.0), libglib2.0-dev (>= 2.14.1), libiphone-dev (>= 0.9.1-2)
+Build-Depends: debhelper (>= 7), libfuse-dev (>= 2.7.0), libglib2.0-dev (>= 2.14.1), libiphone-dev (>= 0.9.5)
 Homepage: http://matt.colyer.name/projects/iphone-linux/
-Vcs-Git: http://git.brad-smith.co.uk/git/debian/pkg-ifuse.git
-Vcs-Browser: http://git.brad-smith.co.uk/?p=debian/pkg-ifuse.git
 
 Package: ifuse
 Architecture: any
