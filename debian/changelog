@@ -1,5 +1,6 @@
 ifuse (0.9.5-1) unstable; urgency=low
 
+  * New maintainer. Thanks Bradley Smith for his work. Closes: #548593
   * New upstream release.
   * debian/ifuse.install: Only install usr/bin
   * debian/control:
