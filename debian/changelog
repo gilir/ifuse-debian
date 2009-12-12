@@ -6,6 +6,7 @@ ifuse (0.9.5-1) unstable; urgency=low
   * debian/control:
    - Update build-depends on libiphone-dev to (>= 0.9.5)
    - Remove VCS fields.
+   - Standards-Version to 3.8.3 (no change needed).
   * debian/ifuse.{1,manpages}: Add man page.
 
  -- Julien Lavergne <julien.lavergne@gmail.com>  Tue, 10 Nov 2009 23:29:16 +0100

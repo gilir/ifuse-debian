@@ -2,7 +2,7 @@ Source: ifuse
 Section: utils
 Priority: optional
 Maintainer: Julien Lavergne <julien.lavergne@gmail.com>
-Standards-Version: 3.8.1
+Standards-Version: 3.8.3
 Build-Depends: debhelper (>= 7), libfuse-dev (>= 2.7.0), libglib2.0-dev (>= 2.14.1), libiphone-dev (>= 0.9.5)
 Homepage: http://matt.colyer.name/projects/iphone-linux/
 
